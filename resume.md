@@ -3,6 +3,7 @@ Ashlynn Fuccello
 
 > <ashlynn.fuccello@gmail.com> • (512) 680 3622 • 24 years old\
 > 3460 Oglethorpe St - Springdale, AR
+> [LinkedIn](https://www.linkedin.com/in/ashlynn-fuccello/)
 
 ----
 
