@@ -1,6 +1,9 @@
 Ashlynn Fuccello
 ============
 
+> <ashlynn.fuccello@gmail.com> • (512) 680 3622 • 24 years old\
+> 3460 Oglethorpe St - Springdale, AR
+
 ----
 
 Education
@@ -80,6 +83,3 @@ Skills
 * Strong leader, excellent communicator, well-organized, fast learner, adaptable, multitasker, and time-efficient.
 
 ----
-
-> <ashlynn.fuccello@gmail.com> • (512) 680 3622 • 24 years old\
-> 3460 Oglethorpe St - Springdale, AR
