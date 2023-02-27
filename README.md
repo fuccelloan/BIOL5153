@@ -2,4 +2,4 @@
 
 Files:
 
--CV Markdown file for Assignment 2
+- resume.md = CV Markdown file for Assignment 2
