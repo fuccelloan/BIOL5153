@@ -1,3 +1,5 @@
 # BIOL5153 Code
 
-Added CV Markdown file.
+Files:
+
+-CV Markdown file for Assignment 2
