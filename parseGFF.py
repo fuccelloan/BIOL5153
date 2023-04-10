@@ -9,11 +9,11 @@ parser.add_argument("fasta_name", help="", type=str)
 
 args = parser.parse_args()
 
-gff = open(args.gff_name, 'r')
-fasta = open(args.fasta_name, 'r')
+with open(args.gff_name) as gff:
 
-gff_lines = gff.readlines()
-
-
-gff.close()
-fasta.close()
+	for line in gff:
+		elements = line.strip("\n").split("\t")
+		if elements[0] != '':
+			type = elements[2]
+			length = int(elements[4]) - (int(elements[3]) - 1)
+			print(type, length) 
